@@ -24,9 +24,9 @@ The data is located in the Resources folder.
 
 ## Images
 
-![Logistic Regression](images/LogisticRegression.PNG)
+![Logistic Regression](image/LogisticRegression.PNG)
 
-![Random Forest Classifier](images/RandomForest.PNG)
+![Random Forest Classifier](image/RandomForest.PNG)
 
 
 
